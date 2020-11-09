@@ -1,4 +1,4 @@
-eqfeed_callback({
+bus_callback({
   "type": "FeatureCollection",
   "features": [
     {
